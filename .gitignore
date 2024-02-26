@@ -30,3 +30,9 @@ package-lock.json
 yarn.lock
 
 .DS_Store
+
+# Datasets
+./deblurredUsingWeinerFilter.zip
+./EdgeDetection_cannyfilter.zip
+./EdgeDetection_sobelfilter.zip
+./ImgConst_Using_HE.zip
