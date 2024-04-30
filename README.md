@@ -1,8 +1,24 @@
 # ROP Classification using Pre-trained CNNs
 
+GITHUB REPO LINK : https://github.com/mohammadshaad/early-detection-of-rop
+
 ## Overview
 
 This repository contains the code and documentation for a study on the early detection of Retinopathy of Prematurity (ROP) using pre-trained convolutional neural network (CNN) models. ROP is a significant cause of childhood blindness, and early detection is crucial for effective treatment. The study explores the classification of different ROP stages using popular pre-trained CNN models such as InceptionV3, ResNet50, VGG16, VGG19, DenseNet201, MobileNet, and AlexNet.
+
+## Instructions to Run the Code
+
+To run the code in the accompanying ipynb file, follow these steps:
+
+1. Install Jupyter Notebook if you haven't already. You can find installation instructions [here](https://jupyter.org/install).
+2. Open a terminal or command prompt.
+3. Navigate to the directory where the ipynb file is located using the `cd` command.
+4. Launch Jupyter Notebook by running the command `jupyter notebook`.
+5. In your web browser, Jupyter Notebook will open, displaying the file browser.
+6. Click on the ipynb file to open it.
+7. Run the code cells in the notebook by clicking on the "Run" button or using the keyboard shortcut Shift + Enter.
+
+
 
 ## Dataset
 
